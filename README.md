@@ -1,6 +1,8 @@
 # native-editor
 
-**native-editor** is a lightweight VS Code custom editor that replaces the default editor with a simple HTML `<textarea>` rendered inside a Webview. It supports all text-based files and works in VS Code Desktop, Web, and GitHub Codespaces.
+**native-editor** is a lightweight VS Code custom editor that replaces the default editor with a simple HTML `<textarea>` rendered inside a Webview. It supports all text-based files and works in VS Code Desktop, Web, and GitHub Codespaces. This extension provides a native editing experience for VS Code. It is designed to be lightweight and efficient, making it ideal for use on small mobile devices like iPhone or Android. On iOS, you can use touch to select text spans, copy, paste, and perform other editing actions.
+
+![Screenshot](screenshot.png)
 
 ## Features
 
